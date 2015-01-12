@@ -1,0 +1,24 @@
+{
+  "name": "react-pluraliser",
+  "version": "1.0.0",
+  "description": "Component for pluralising text based on numbers",
+  "main": "src/Pluraliser.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/conversocial/react-pluraliser"
+  },
+  "keywords": [
+    "react",
+    "pluraliser",
+    "pluralizer"
+  ],
+  "author": "Conversocial",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/conversocial/react-pluraliser/issues"
+  },
+  "homepage": "https://github.com/conversocial/react-pluraliser"
+}
